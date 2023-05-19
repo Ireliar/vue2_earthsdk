@@ -45,7 +45,7 @@ yarn commit | npm commit
 | chore    | 日常事务                                                     |
 | revert   | 代码回退                                                     |
 
-
+### 最后致敬coderwhy
 
 ### Customize configuration
 
