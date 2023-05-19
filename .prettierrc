@@ -1,0 +1,8 @@
+{
+  "useTabs": false, // 使用tab缩进还是空格缩进，选择false
+  "tabWidth": 2, // tab是空格的情况下，是几个空格，选择2个
+  "printWidth": 80, // 当行字符的长度，推荐80，也有人喜欢100或者120
+  "singleQuote": true, // 使用单引号还是双引号，选择true，使用单引号
+  "trailingComma": "none", // 在多行输入的尾逗号是否添加，设置为none
+  "semi": false // 语句末尾是否要加分号，默认值true，选择false表示不加
+}
